@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js",
+    "build":"npm i",
     "prod": "node index.js",
     "generate": "node generate.js"
   },

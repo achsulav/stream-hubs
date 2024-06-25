@@ -26,7 +26,7 @@ export const Layout = () => {
             const token = fromStorage('user_token')
 
             if(!isEmpty(token)) {
-            http.get('https://mern-shop-ecommerce.onrender.com/profile/details')
+            http.get('https://https://stream-hubs.onrender.com/profile/details')
             .then(({data}) => {
                         dispatch(setUser(data))
                     })

@@ -1,0 +1,15 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "Lazimpat",
+        "similars",
+        "toastify"
+    ],
+    "cSpell.useGitignore": false,
+    "git.decorations.enabled": false,
+    "git.enabled": true,
+    "git.enableStatusBarSync": false,
+    "githubIssues.issueCompletions.enabled": false,
+    "githubIssues.userCompletions.enabled": false,
+    "search.useIgnoreFiles": false
+}
